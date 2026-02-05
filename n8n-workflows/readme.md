@@ -1,5 +1,3 @@
-# 100 n8n Cybersecurity Ideas
-
 # 🟥 Security Automation Hub
 
 Colección de **workflows automatizados** orientados a **Red Team, Blue Team, SOC, DFIR, AppSec y DevSecOps**, diseñados para ejecutarse de forma programada o bajo demanda.
