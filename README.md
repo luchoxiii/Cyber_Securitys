@@ -6,6 +6,15 @@ Aqui veras algunos de mis proyectos personales y externos dentro mi github, adem
 
 - [Lista de Respo](https://github.com/stars/luchoxiii/lists/cybersecurity)
 
+## Canales de Youtube
+
+### Ingles
+
+- [Ethical Hacking in 15h](https://www.youtube.com/watch?v=sH4JCwjybGs)
+
+### Español
+
+
 #### Resumen de Proyectos
 
 **Español**  
