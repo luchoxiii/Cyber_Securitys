@@ -23,3 +23,8 @@ Aqui veras algunos de mis proyectos personales y externos dentro mi github, adem
 3. **Hasheador**: Programa para generar resúmenes (hashes) de archivos o cadenas de texto usando algoritmos como MD5, SHA-1 y SHA-256.
 
 
+
+
+### Paginas Web de Practica
+
+- [Tryhackme](https://tryhackme.com)
