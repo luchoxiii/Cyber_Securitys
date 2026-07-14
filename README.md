@@ -1,10 +1,17 @@
-# CyberSecuritys
+# 🔐 Cybersecurity
 
-Aqui veras algunos de mis proyectos personales y externos dentro mi github, ademas de informacion y documentacion.
+Bienvenido a este repositorio.
+
+Aquí encontrarás una recopilación de mis proyectos personales relacionados con la **ciberseguridad**, además de recursos, documentación y herramientas que utilizo durante mi aprendizaje.
 
 ## Ciberseguridad
 
 - [Lista de Respo](https://github.com/stars/luchoxiii/lists/cybersecurity)
+
+## Documentacion 
+
+- [Documentacion](https://github.com/luchoxiii/Cyber_Securitys/tree/main/Notes)
+
 
 ## Canales de Youtube
 
