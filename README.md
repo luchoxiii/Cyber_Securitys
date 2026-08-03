@@ -11,6 +11,7 @@ Aquí encontrarás una recopilación de mis proyectos personales relacionados co
 ## Documentacion 
 
 - [Documentacion](https://github.com/luchoxiii/Cyber_Securitys/tree/main/Notes)
+- [Firewall de prompt injection](https://github.com/luchoxiii/Firewall_Pront)
 
 
 ## Canales de Youtube
