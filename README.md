@@ -7,6 +7,8 @@ Aquí encontrarás una recopilación de mis proyectos personales relacionados co
 ## Ciberseguridad
 
 - [Lista de Respo](https://github.com/stars/luchoxiii/lists/cybersecurity)
+- [Reglamentacion de OWASP](https://owasp.org/)
+
 
 ## Documentacion 
 
@@ -29,6 +31,8 @@ Aquí encontrarás una recopilación de mis proyectos personales relacionados co
 1. **Generador de Contraseñas**: Un generador de contraseñas aleatorias de alta seguridad.  
 2. **Escáner de Puertos**: Herramienta para escanear puertos abiertos en una red, útil para análisis de seguridad.  
 3. **Hasheador**: Programa para generar resúmenes (hashes) de archivos o cadenas de texto usando algoritmos como MD5, SHA-1 y SHA-256.
+
+---
 
 
 
