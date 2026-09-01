@@ -24,6 +24,7 @@ Aquí encontrarás una recopilación de mis proyectos personales relacionados co
 
 ### Español
 
+- [Seguridad de IA](https://www.youtube.com/@seguridad-de-la-ia/videos)
 
 #### Resumen de Proyectos
 
