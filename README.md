@@ -8,6 +8,7 @@ Aquí encontrarás una recopilación de mis proyectos personales relacionados co
 
 - [Lista de Respo](https://github.com/stars/luchoxiii/lists/cybersecurity)
 - [Reglamentacion de OWASP](https://owasp.org/)
+- [Hack The Knowledge](https://hacktheknowledge.com)
 
 
 ## Documentacion 
