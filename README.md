@@ -22,6 +22,9 @@ Aquí encontrarás una recopilación de mis proyectos personales relacionados co
 ### Ingles
 
 - [Ethical Hacking in 15h](https://www.youtube.com/watch?v=sH4JCwjybGs)
+- [Network Chuck](https://www.youtube.com/@NetworkChuck)
+- [IppSec](https://www.youtube.com/@ippsec) Maquina Virtuales
+- [Critical Thinking BugBounty](https://www.youtube.com/@criticalthinkingpodcast)
 
 ### Español
 
