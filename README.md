@@ -25,6 +25,7 @@ Aquí encontrarás una recopilación de mis proyectos personales relacionados co
 - [Network Chuck](https://www.youtube.com/@NetworkChuck)
 - [IppSec](https://www.youtube.com/@ippsec) Maquina Virtuales
 - [Critical Thinking BugBounty](https://www.youtube.com/@criticalthinkingpodcast)
+- [NahamSec](https://www.youtube.com/@NahamSec)
 
 ### Español
 
