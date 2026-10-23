@@ -31,6 +31,8 @@ Aquí encontrarás una recopilación de mis proyectos personales relacionados co
 
 - [Seguridad de IA](https://www.youtube.com/@seguridad-de-la-ia/videos)
 
+---
+
 #### Resumen de Proyectos
 
 **Español**  
@@ -40,7 +42,12 @@ Aquí encontrarás una recopilación de mis proyectos personales relacionados co
 
 ---
 
+### Herramientas
 
+- [Simple Login (Creacion Mails)](https://simplelogin.io/es/)
+
+
+---
 
 
 ### Paginas Web de Practica
